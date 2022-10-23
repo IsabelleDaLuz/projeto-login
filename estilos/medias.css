@@ -7,6 +7,7 @@
 
     section {
         width: 80vw;
+        height: 280px;
     }
 
     div#imagem {
@@ -27,7 +28,7 @@
     
     section {
         width: 950px;
-        height: 400px;
+        height: 350px;
     }
 
     div#imagem {
@@ -45,6 +46,6 @@
      }
     
     div#formulario p {
-        font-size: 1.2em;
+        font-size: 1.1em;
     }
 }
